@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yapp Live</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    
+    <string name="action_search">Search</string>
+    
+    <!-- fragments -->
+    <string name="frag_populares">Populares</string>
+    <string name="frag_canales">Mis Canales</string>
+    <string name="frag_recomenda">Recomenda</string>
+
+    <!--string-array name="">
+        <item></item>
+    </string-array-->
+    
+        <!-- Categorias -->
+    <string name="menu_espectaculos">Espectáculos</string>
+    <string name="menu_hoy">Lo de Hoy</string>
+    <string name="menu_horoscopos">Horóscopos</string>
+    <string name="menu_cine">Cine</string>
+    <string name="menu_clima">Clima</string>
+    <string name="menu_fashion">El fashionista</string>
+    
+    <string name="enter_login">Entrar sin registro > </string>
+ 
+    
+
+</resources>

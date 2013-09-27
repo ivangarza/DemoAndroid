@@ -1,0 +1,17 @@
+# ignored folders for the Android project
+bin/
+gen/
+tmp/
+test-reports/
+
+# ignored folders for the test project
+test/bin/
+
+# ignored Eclipse files and folder
+.project
+.classpath
+.settings/
+
+# ignored IntelliJ file and folder
+*.iml
+.idea/
